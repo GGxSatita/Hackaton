@@ -1,0 +1,7 @@
+{
+  "name": "sharkBite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
